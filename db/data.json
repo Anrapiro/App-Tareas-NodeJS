@@ -1,0 +1,16 @@
+[{
+  "descripcion": "Hacer la compra de la semana",
+  "completado": false
+}, {
+  "descripcion": "Clases de Ingles por la tarde",
+  "completado": false
+}, {
+  "descripcion": "Conferencia virtual UNI",
+  "completado": false
+}, {
+  "descripcion": "Entrenamiento a las 18 horas",
+  "completado": false
+}, {
+  "descripcion": "new tarea",
+  "completado": true
+}]
